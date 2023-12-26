@@ -1,4 +1,4 @@
-name: Publish Cypress to GitHub Packages
+name: npm config
 
 on:
   release:
